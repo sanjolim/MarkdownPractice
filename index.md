@@ -15,6 +15,9 @@ var mycar = "Hello!";
 ```
 
 
+- [X] Turn on gitHub pages
+- [] Outline my profile
+- [X] Introduce myself to the world
 
 
 
