@@ -4,6 +4,15 @@
 ![image of a car](https://cdn2.adrianflux.co.uk/wp-fluxposure/uploads/2017/05/vintage-British-classic-car-1.jpg)
 
 
+```
+$ git init
+Initialized empty git repo
+```
+This is a `code`
+
+``` javascript
+var mycar = "Hello!";
+```
 
 
 
@@ -12,4 +21,6 @@
 
 
 
-Committing the changes to understand headers in Markdown language
+
+
+
